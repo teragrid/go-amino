@@ -73,17 +73,17 @@
   version = "v1.2.1"
 
 [[projects]]
-  name = "github.com/tendermint/tmlibs"
+  branch = "master"
+  name = "github.com/teragrid/teralibs"
   packages = [
     "common",
     "log"
   ]
-  revision = "2e24b64fc121dcdf1cabceab8dc2f7257675483c"
-  version = "v0.8.1"
+  revision = "8a7405f0c60db4b836333b919a1bfc91577a2c36"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "39df8000374b1ed2d9b5b044c56ac18ece740d6d3aa911648feddeb88fe7a422"
+  inputs-digest = "d208a41485636eedb280f3e00a5d393e93576c49cc7952534d30e4e5624a7fb7"
   solver-name = "gps-cdcl"
   solver-version = 1
