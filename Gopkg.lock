@@ -37,7 +37,7 @@
     "protoc-gen-gogo/descriptor"
   ]
   revision = "1adfc126b41513cc696b209667c8656ea7aac67c"
-  version = "v1.0.0"
+  version = "v3.2.0"
 
 [[projects]]
   branch = "master"
@@ -69,8 +69,8 @@
     "assert",
     "require"
   ]
-  revision = "12b6f73e6084dad08a7c6e575284b177ecafbc71"
-  version = "v1.2.1"
+  revision = "f35b8ab0b5a2cef36673838d662e249dd9c94686"
+  version = "v1.2.2"
 
 [[projects]]
   branch = "master"
@@ -79,7 +79,7 @@
     "common",
     "log"
   ]
-  revision = "8a7405f0c60db4b836333b919a1bfc91577a2c36"
+  revision = "49b8eb37be66767c51793b7ee272e1e6c95c5371"
 
 [solve-meta]
   analyzer-name = "dep"
